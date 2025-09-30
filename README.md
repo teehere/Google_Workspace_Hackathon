@@ -26,7 +26,7 @@ This project is aim to create a **user-friendly business management solutions** 
   -  Develop solutions by using Apps Script to create a prototype
 
 ## Pitchdeck
-https://www.canva.com/design/DAGLx60F51s/KNgferuDEXfWp8SXlL9sTA/edit
+[PitchDeck](https://www.canva.com/design/DAGLx60F51s/KNgferuDEXfWp8SXlL9sTA/edit)
 
 ## Lisence
 This project is protected by MIT [Lisence](LICENSE)
