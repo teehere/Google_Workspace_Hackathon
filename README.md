@@ -9,7 +9,7 @@ Google Workspace Hackthon 2024 by CodeError
 - [Lisence](#Lisence)
 
 ## Introduction
-This project is aim to create a **user-friendly business management solutions** for small and midsize enterprise (SME) using **Google Workspace and Apps Script** Our group found that the **confidential mode on Gmail** can be improved, therefore we came out an idea to **add on view once feature**
+This project is aim to create a **user-friendly business management solutions** for small and midsize enterprise (SME) using **Google Workspace and Apps Script**. Our group found that the **confidential mode on Gmail** can be improved, therefore we came out an idea to **add on view once feature**
 
 ## Problems
 1.	Security Aspect
